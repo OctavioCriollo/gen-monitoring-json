@@ -1,4 +1,4 @@
-# ESP32 RBS Monitoring and Control
+# ESP32 Generator Monitoring and Control
 
 ## Overview
 This repository contains the firmware for an ESP32-based system designed to monitor and control a Generator from a Remote Base Station (RBS) in a telecommunication network. The system provides real-time monitoring of key parameters, controls alarms, and publishes data to an MQTT server.
